@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twitter_API2_Stream_Test", "Twitter_API2_Stream_Test.csproj", "{B533E285-AB64-4238-8BC4-EB571EA1B788}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterAPI_UnitTest", "..\TwitterAPI_UnitTest\TwitterAPI_UnitTest.csproj", "{4CA1246F-F786-46F0-B0ED-6EA84B09CC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B533E285-AB64-4238-8BC4-EB571EA1B788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B533E285-AB64-4238-8BC4-EB571EA1B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B533E285-AB64-4238-8BC4-EB571EA1B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B533E285-AB64-4238-8BC4-EB571EA1B788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA1246F-F786-46F0-B0ED-6EA84B09CC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA1246F-F786-46F0-B0ED-6EA84B09CC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA1246F-F786-46F0-B0ED-6EA84B09CC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA1246F-F786-46F0-B0ED-6EA84B09CC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE747021-3EB7-45BE-90B2-D17C340CC652}
+	EndGlobalSection
+EndGlobal

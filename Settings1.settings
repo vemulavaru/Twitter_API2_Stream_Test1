@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Twitter_API2_Stream_Test" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Bearer_Token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AAAAAAAAAAAAAAAAAAAAAF%2FtlgEAAAAALkzMo2giThlOWBtaUrSlqc9AN1U%3DhLRHQ0CKojo7GkaraqJDSsC5y9ilvn3QdbraTceNzbXFOrrt2D</Value>
+    </Setting>
+    <Setting Name="Total_Stream_Endpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.twitter.com/2/tweets/recent/stream</Value>
+    </Setting>
+    <Setting Name="Top10HashTags_Endpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.twitter.com/2/tweets/search/recent?query=%23hashtag&amp;max_results=100</Value>
+    </Setting>
+    <Setting Name="Recent_Tweets_Endpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.twitter.com/2/tweets/search/recent</Value>
+    </Setting>
+    <Setting Name="Error_LogFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\error.log</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
